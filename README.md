@@ -1,7 +1,7 @@
-# Discord-Alts
-These are Alternate Accounts I am keeping a record of.
-
-> A list of Nestors IDS
+> # Discord-Alts
+> These are Alternate Accounts I am keeping a record of.
+> 
+> > A list of Nestors IDS
 > 
 > **Main Account:** 
 > **User:** Nestor#0001
