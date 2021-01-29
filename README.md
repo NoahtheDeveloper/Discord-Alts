@@ -50,3 +50,18 @@
 > 
 > 550094196678328320
 > 
+> 
+> > A list of Gartzea's Accounts
+> 
+> **Main Account:**
+> 
+> **User:** Gartzea#0471
+> 
+> 127496517543002112
+> 
+> **Alt Account:**
+> 
+> **User:** haniabitch#6054
+> 
+> 722058062462189630
+
